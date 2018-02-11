@@ -1,0 +1,13 @@
+Author
+--------
+Marc Blanchou
+
+
+Maintainers
+-----------
+...
+
+
+Contributor
+------------
+Mathew Solnik
